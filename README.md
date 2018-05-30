@@ -1,2 +1,2 @@
-# jvnovel-engine
-A simple visual novel engine based on Java and XML
+# JVNovel Engine
+JVNovel Engine will be a simple Java and XML based engine for writing visual novels.
