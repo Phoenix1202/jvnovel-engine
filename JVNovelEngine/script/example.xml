@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scene name="Hello World">
+	<frame text="Hello world!" />
+	<frame text="Oh! You don't know who I am, right?" />
+	<frame source="self" text="And indeed I did not" />
+	<frame source="Greeter" text="I'm just the greeter for this demo!"/>
+</scene>
